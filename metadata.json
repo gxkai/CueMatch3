@@ -1,0 +1,5 @@
+{
+  "name": "ArenaMatch",
+  "description": "A comprehensive tournament management system featuring random and manual matchmaking, real-time result tracking, automated leaderboards, and AI-powered tournament commentary.",
+  "requestFramePermissions": []
+}
